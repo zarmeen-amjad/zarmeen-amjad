@@ -1,0 +1,19 @@
+.right-w3l input[type="submit"] {
+    background: #000000;
+    color: #fff;
+}
+input.form-control {
+    background: rgb(134, 182, 250);
+}
+
+@media (min-width: 576px) {
+    .agilemodal-dialog {
+        max-width: 750px;
+        margin: 5rem auto;
+    }
+
+.modal-title {
+    font-family: 'Elsie Swash Caps', cursive;
+    font-weight: bold;
+    font-size: 2em;
+}
